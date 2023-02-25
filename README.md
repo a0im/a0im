@@ -4,7 +4,7 @@
 <div align="center">
 <br>
          
-## Hello,  i'm  Ayeong 🍀
+# Hello,  i'm  Ayeong 🍀
          
 
 <br>
